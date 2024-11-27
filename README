@@ -1,0 +1,7 @@
+How to start the app:
+
+The app is running .NET 8, so open the Visual Studio that has .NET 8 installed.
+Build the app.
+You can either run the .exe directly from folder with your command parameters
+or you can run it from Visual Studio (change the Guestline.HotelManagement.Console/Properties/launchSettings.json file.
+In this file you can change the paths to hotels and bookings files and then run the app directly from VS.)

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Guestline.HotelManagement.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "--hotels hotels.json --bookings bookings.json"
+    }
+  }
+}
